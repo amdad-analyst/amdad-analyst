@@ -1,5 +1,7 @@
 ## Hi! I am Amdad Ullah Mollah👋
 
+Aspiring Financial Analyst | Finance Graduate | Passionate about Fintech
+
 <!--
 **amdad-analyst/amdad-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Aspiring Financial Analyst | A Finance Graduate | Passionate about Fintech  
