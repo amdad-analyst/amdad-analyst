@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Amdad Ullah Mollah
 **An Aspiring Financial Analyst || Finance Graduate || Passionate about Fintech**
 
-Email Me 👉 ✉️ **amdad.ullah1207@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** PostgreSQL
 - 🌱 **I’m currently learning:** Power BI 
 - 👯 **I’m looking to collaborate on:** Project related to Financial Modeling
